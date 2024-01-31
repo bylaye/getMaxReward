@@ -24,6 +24,8 @@ cd getMaxReward
 python
 ```
 ```
+Python 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
 >>> from MaxRewards import MaxRewards
 >>> import initialise as m
 >>> M = MaxRewards(m.MATRIX, m.START, m.END)
